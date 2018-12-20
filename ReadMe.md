@@ -1,6 +1,6 @@
-#GAN
+GAN
 
-##A basic implementation of GANs using MNIST dataset
+A basic implementation of GANs using MNIST dataset
 
 Based on - 
 
